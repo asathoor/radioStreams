@@ -1,0 +1,12 @@
+[Desktop Entry]
+Name=RadioAppjar
+Version=1.0
+Exec=/home/per/bin/radio-www/radioAppjar.py
+Comment=Play www radio streams
+Icon=qspeakers
+Type=Application
+Terminal=true
+StartupNotify=true
+Encoding=UTF-8
+Categories=Music
+

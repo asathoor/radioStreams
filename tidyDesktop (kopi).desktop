@@ -1,0 +1,12 @@
+[Desktop Entry]
+Name=RadioWWW
+Version=1.0
+Exec=/home/per/bin/radio-www/radio_001.py
+Comment=One click: move all desktop files to trash.
+Icon=qspeakers
+Type=Application
+Terminal=true
+StartupNotify=true
+Encoding=UTF-8
+Categories=Music
+
